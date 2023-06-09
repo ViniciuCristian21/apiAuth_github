@@ -36,4 +36,4 @@ Response
 
 <small><stonger>OBS: O code usado na requisição é aquele que você pega no tutorial do client_id, seguindo o tutorial é possivel pega-lo.</stonger></small>
 
-<div align="center" ><font color="gree">Em breve um SWAGGER com uma documentação especifica e um abiente para testar a API.</font></div>
+<div align="center" ><font color="green">Em breve um SWAGGER com uma documentação especifica e um abiente para testar a API.</font></div>
