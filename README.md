@@ -10,7 +10,7 @@
 
 ## Como testar?
 
-<small>Inicialmente você prescisara ler o <a href="https://docs.github.com/pt/apps/creating-github-apps/writing-code-for-a-github-app/building-a-login-with-github-button-with-a-github-app">Tutorial</a> de criação de aplicações do github para poder testar!. depois de criar a aplicação segue o <a href="https://docs.github.com/pt/apps/creating-github-apps/writing-code-for-a-github-app/building-a-login-with-github-button-with-a-github-app">Tutorial</a> de como obter o client_id, após obter segue o tutorial.</small>
+<small>Inicialmente você prescisara ler o <a href="https://docs.github.com/pt/apps/creating-github-apps/writing-code-for-a-github-app/building-a-login-with-github-button-with-a-github-app" target="_blank">Tutorial</a> de criação de aplicações do github para poder testar!. depois de criar a aplicação segue o <a href="https://docs.github.com/pt/apps/creating-github-apps/writing-code-for-a-github-app/building-a-login-with-github-button-with-a-github-app" target="_blank">Tutorial</a> de como obter o client_id, após obter segue o tutorial.</small>
 
 ## iniciando o projeto
 ```
